@@ -125,7 +125,7 @@ basic.forever(function () {
         }
 })
 ```
-## Step 14
+## Step 14 @showhint
 ``|Download|`` and test your code. The simulator shows how it should work.
 Congratulations on completing your Automatic Irrigation System! - Go back to the lesson for more activities and extensions.
 ![moisture-pump](https://mbakhtar.github.io/mvp-6-tutorials-update/updated-assets/simulator-11-Moisture-pump.gif)
