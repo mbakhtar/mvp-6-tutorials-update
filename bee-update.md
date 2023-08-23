@@ -139,7 +139,7 @@ basic.forever(function () {
     }
 })
 ```
-## Step 17
+## Step 17 @showhint
 Click ``|Download|`` and test your code. The simulator shows how it should work.
 Congratulations on completing your Plants and Pollinator Project! - Go back to the lesson for more activities and extensions.
 ![touch-led](https://mbakhtar.github.io/mvp-6-tutorials-update/updated-assets/simulator-10-LED-bee.gif)
