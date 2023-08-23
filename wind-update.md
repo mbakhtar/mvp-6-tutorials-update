@@ -133,7 +133,7 @@ fwdSensors.dial1.fwdOnDialTurned(fwdSensors.DialDirection.CCW, function (differe
     fwdMotors.servo1.fwdSetSpeed(fwdSensors.dial1.fwdPosition())
 })
 ```
-## Step 16
+## Step 16 @showhint
 ``|Download|`` and test your code.The simulator shows how it should work.
 Congratulations on completing your Wind Turbine Project! - Go back to the lesson for more activities and extensions.
 ![dial-servo](https://mbakhtar.github.io/mvp-6-tutorials-update/updated-assets/simulator-13-wind.gif)
