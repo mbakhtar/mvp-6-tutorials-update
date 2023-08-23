@@ -20,7 +20,7 @@ Insert it into the Climate Action Kit board.
 Click three dots besides ``|Download|`` button and follow the steps to pair your micro:bit.
 ![pair gif](https://climate-action-kits.github.io/pxt-fwd-edu/tutorial-assets/pairmicrobit-280x203.gif)
 
-## Step 5 
+## Step 5 @showhint
 Look below the @boardname@ simulator to see the Climate Action Board and the connected sensors. Try to interact with your sensor and the simulator will react to it.
 ![moisture](https://mbakhtar.github.io/mvp-6-tutorials-update/updated-assets/simulator-4-moisture.gif)
 
