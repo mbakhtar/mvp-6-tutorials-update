@@ -1,0 +1,31 @@
+{
+    "name": "MVP-6-Tutorials-update",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "ev-update.md",
+        "tree-update.md",
+        "bee-update.md",
+        "agri-update.md",
+        "solar-update.md",
+        "wind-update.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.17",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
