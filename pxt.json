@@ -15,7 +15,8 @@
         "bee-update.md",
         "agri-update.md",
         "solar-update.md",
-        "wind-update.md"
+        "wind-update.md",
+        "blank-project.md"
     ],
     "testFiles": [
         "test.ts"
